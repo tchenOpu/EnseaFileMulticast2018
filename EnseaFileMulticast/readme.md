@@ -2,6 +2,8 @@
 
 Java application for sending/recieving files via multicast.
 
+In-depth presentation in the presentation.pdf file (in french).
+
 ## Getting Started
 
 Download the file /EnseaFileMulticast/dist/EnseaFileMulticast.jar
